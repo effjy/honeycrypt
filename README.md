@@ -6,6 +6,7 @@
 [![Language](https://img.shields.io/badge/language-ANSI%20C99-green)](https://en.wikipedia.org/wiki/C99)
 [![Build](https://img.shields.io/badge/build-Makefile-brightgreen)](https://www.gnu.org/software/make/)
 [![Paper](https://img.shields.io/badge/paper-PDF-red)](paper.pdf)
+[![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.32537733-blue)](https://doi.org/10.6084/m9.figshare.32537733)
 [![Status](https://img.shields.io/badge/status-stable-success)]()
 
 > *"Neutralizing offline brute-force attacks by replacing authentication errors with plausible decoys."*
@@ -118,13 +119,15 @@ At the bottom of the interface, you can test both security modes against an auto
 
 ## 📄 Academic Paper
 
-The full research monograph accompanying this implementation is available in this repository:
+The full research monograph accompanying this implementation is available in this repository and on Figshare:
 
-### [📑 Download the Paper (PDF)](paper.pdf)
+### [📑 Download the Paper (PDF)](paper.pdf) | [![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.32537733-blue)](https://doi.org/10.6084/m9.figshare.32537733)
 
 **Title:** *HoneyCrypt: Distribution-Transforming Encryption and Plausible-Decoy Schemes for Symmetric Cryptosystems*
 
 **Authors:** Jean-Francois Lachance-Caumartin
+
+**Published:** 2026-06-01 (Figshare Preprint)
 
 **Contents:**
 - Mathematical formalism of Distribution-Transforming Encryption (DTE)
@@ -185,7 +188,8 @@ SOFTWARE.
 
 **Author:** Jean-Francois Lachance-Caumartin  
 **ORCID:** 0009-0005-6377-1675  
-**Email:** jeanfrancoislachancecaumartin@gmail.com
+**Email:** jeanfrancoislachancecaumartin@gmail.com  
+**Figshare:** [10.6084/m9.figshare.32537733](https://doi.org/10.6084/m9.figshare.32537733)
 
 If you use HoneyCrypt in your research or security infrastructure, please cite:
 
@@ -195,7 +199,8 @@ If you use HoneyCrypt in your research or security infrastructure, please cite:
                Distribution-Transforming Encryption with Plausible-Decoy Defense},
   author    = {Jean-Francois Lachance-Caumartin},
   year      = {2026},
-  url       = {https://github.com/yourusername/honeycrypt}
+  doi       = {10.6084/m9.figshare.32537733},
+  url       = {https://github.com/effjy/honeycrypt}
 }
 ```
 
