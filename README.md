@@ -1,4 +1,8 @@
-# 🍯 HoneyCrypt: DTE-Based Plausible-Decoy Encryption Vault
+<div align="center">
+
+<a href="https://github.com/effjy/honeycrypt/"><img src="titles/honeycrypt-title.svg" height="52" alt="HoneyCrypt"></a>
+
+DTE-Based Plausible-Decoy Encryption Vault
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Unix-lightgrey)](https://www.linux.org)
@@ -8,6 +12,8 @@
 [![Paper](https://img.shields.io/badge/paper-PDF-red)](paper.pdf)
 [![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.32537733-blue)](https://doi.org/10.6084/m9.figshare.32537733)
 [![Status](https://img.shields.io/badge/status-stable-success)]()
+
+</div>
 
 > *"Neutralizing offline brute-force attacks by replacing authentication errors with plausible decoys."*
 
