@@ -30,7 +30,7 @@ DTE-Based Plausible-Decoy Encryption Vault
 - [License](#license)
 
 ---
-## screenshot
+
 ## 📸 Screenshot
 
 ![HoneyCrypt GTK3 Desktop Vault](screenshot.png)
