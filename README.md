@@ -20,14 +20,14 @@ DTE-Based Plausible-Decoy Encryption Vault
 ---
 
 ## 📖 Table of Contents
-- [Screenshot](#screenshot)
-- [What is HoneyCrypt?](#what-is-honeycrypt)
-- [System Prerequisites](#system-prerequisites)
-- [Compilation & Build](#compilation--build)
-- [How to Use the Program](#how-to-use-the-program)
-- [Academic Paper](#academic-paper)
-- [Repository Structure](#repository-structure)
-- [License](#license)
+- [Screenshot](#-screenshot)
+- [What is HoneyCrypt?](#-what-is-honeycrypt)
+- [System Prerequisites](#-system-prerequisites)
+- [Compilation & Build](#️-compilation--build-workflows)
+- [How to Use the Program](#-how-to-use-the-program)
+- [Academic Paper](#-academic-paper)
+- [Repository Structure](#-repository-structure)
+- [License](#️-license)
 
 ---
 
